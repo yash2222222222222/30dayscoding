@@ -63,6 +63,9 @@ https://learn.microsoft.com/en-us/plans/5dyyborpmok24n?tab=tab-created&source=do
 
 
 
+Azure Data Fundamentals
+
+https://learn.microsoft.com/en-us/plans/8pkkiy5xgxnpmw?tab=tab-created&learnerGroupId=c06655ca-7e7c-42c9-915c-5b2cb191cae0&wt.mc_id=studentamb_435241
 
 
 
